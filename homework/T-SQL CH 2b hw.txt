@@ -1,0 +1,19 @@
+T-SQL# CH 2b HW
+Evan D. Blanton
+
+
+
+1. The type of value we will input, because we cant make a function with the wrong type
+2. Makes things stay in order, latin general, dictionary sorting, CI, and AS
+3. I would just make sure my commas are close and theres no extra space.
+4. SELECT institute FROM college;
+5. Honestly I would google.
+6. SELECT * FROM presidents ORDER BY name;
+7. !, %%, ||
+8. (), *, /, -, +
+9. Case both things are something, do an action, while the other is either or THEN run something.
+10. I would change the primary key so that it switched 
+11. I would change the primary key so that it switched 
+
+
+
